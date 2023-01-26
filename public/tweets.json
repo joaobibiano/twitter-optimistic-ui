@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Adam Wathan",
+    "nickname": "@adamwathan",
+    "content": "⏲️ What can I do in the next 90 minutes that would make your Tailwind life better?\n\n    Small feature I can build?\n    Demo you'd like to learn from?\n    Best practice you want explained?\n    \n    Let me know!",
+    "retweets": 12,
+    "likes": 58,
+    "liked": false
+  },
+  {
+    "id": 2,
+    "name": "Mr. Tweet",
+    "nickname": "@elonmusk",
+    "content": "Changed my name to Mr. Tweet, now Twitter won’t let me change it back 🤣",
+    "retweets": "39.7K",
+    "likes": 605005,
+    "liked": true
+  },
+  {
+    "id": 3,
+    "name": "Modest Mitkus",
+    "nickname": "@modestmitkus",
+    "content": "Stop selling your time - sell digital products instead.\n\n    I collected 40 digital product ideas to get you started.\n    \n    Reply 👋 to receive it [must be following).",
+    "retweets": "187",
+    "likes": 939,
+    "liked": true
+  },
+  {
+    "id": 4,
+    "name": "Theo - t3.gg",
+    "nickname": "@t3dotgg",
+    "content": "It's been long enough that we can admit Redux Saga was a bad idea, right?",
+    "retweets": "33",
+    "likes": 592,
+    "liked": true
+  }
+]
